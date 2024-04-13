@@ -1,1 +1,10 @@
 Hi, this is a bank application which has the features like credit, debit, loan.
+
+Credit:
+    * Apply Credit card
+    * Purchase product using Credit card
+
+Debit:
+    * Apply Debit card
+    * Deposit Amount
+    * Transfer Amount
